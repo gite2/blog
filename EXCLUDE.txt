@@ -1,0 +1,5 @@
+docs\
+.git\
+.bat
+.txt
+README.md
