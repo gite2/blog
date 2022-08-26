@@ -41,7 +41,7 @@ docsify serve docs
 > 本站发布目录在docs下
 
 ```bash
-docs			#网站发布目录
+docs		#网站发布目录
 copy2docs.bat 	#快速拷贝网站文档进入docs目录
 EXCLUDE.txt 	#需要排除拷贝的文件和目录
 localRun.bat 	#本地快速启动预览网站命令
