@@ -1,6 +1,6 @@
 ![logo](_media/ico.png)
 
-# 陈默的博客 <small>1.2.6</small>
+# 陈默的博客 <small>1.2.8</small>
 
 > 热爱技术，分享技术
 
